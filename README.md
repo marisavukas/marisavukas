@@ -1,7 +1,7 @@
 ### Welcome To My GitHub Page 
 
 
-### Main Tech Toolbox
+### Skills
 <p align="left">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartart.com%2Fimages%2Fjavascript-icon-clipart-6.png&f=1&nofb=1" alt="javascript" width="40" height="40"/> 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40"/> 
